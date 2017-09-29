@@ -6,6 +6,7 @@ public class ImageToAsciiMain {
 		// TODO Auto-generated method stub
 		ImageToAscii.createAsciiPic("resource/rat.jpg");
 		Log.i("zhaoyong","git test");
+		Log.i("git test");
 	}
 
 }
